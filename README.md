@@ -1,4 +1,4 @@
-The following Algorithms and Neural Network Program are implemented
+The following Algorithms and Neural Network are implemented
 //White Box Neural Networks 
 //Ant Colony
 //Particle Swarm
